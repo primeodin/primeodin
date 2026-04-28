@@ -2,6 +2,8 @@
 
 > I build small machines for large questions.
 
+**Landing page:** https://primeodin.github.io/
+
 I am interested in the old bargain between wonder and discipline: take a thing apart, learn its invariants, put it back together stronger, and leave clear notes for the next traveler. My work tends to orbit low-level systems, physics-flavored simulation, numerical methods, learning machines, resilient infrastructure, and the strange new craft of steering language models without letting them dissolve into fog.
 
 This profile is the public front door for **primeodin-legacy** — an honest retrospective archive of twenty-one technical chapters, one for each year from 2003 through 2023.
