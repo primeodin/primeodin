@@ -6,20 +6,29 @@ I build things people can **run**, **break**, and **learn from** — teaching PW
 
 **Landing:** [primeodin.github.io](https://primeodin.github.io/)
 
-## Start here
+## Live demos (try these first)
 
-| Project | What it is | Try it |
-| --- | --- | --- |
-| **[Mister Jay](https://github.com/primeodin/mister-jay)** | Practice the shop skills Jay taught — vehicle, electrical, plumbing, household. Installable PWA. | [Live demo](https://primeodin.github.io/mister-jay/) |
-| **[jay-ai-sinhala](https://github.com/primeodin/jay-ai-sinhala)** | Jay teaches friends (70+) to build with GitHub + AI — in Sinhala. Literacy before hype. | [Repo](https://github.com/primeodin/jay-ai-sinhala) |
-| **[camera-selector](https://github.com/primeodin/camera-selector)** | DIY NVR camera selector + Frigate planning for real budgets and layouts. | [Live demo](https://primeodin.github.io/camera-selector/) |
+| | |
+| --- | --- |
+| **[Mister Jay](https://primeodin.github.io/mister-jay/)** | Shop-skill practice PWA — vehicle, electrical, plumbing, household. Illustrated learn + practice, Jay-style shop tips with safety judgment. |
+| **[Camera selector](https://primeodin.github.io/camera-selector/)** | DIY NVR / Frigate planner for real budgets and layouts. |
+| **[Jay AI Sinhala](https://primeodin.github.io/jay-ai-sinhala/)** | Friends learning GitHub + AI in Sinhala — literacy before hype. |
+| **[Archive site](https://primeodin.github.io/)** | Map of the runnable retrospective chapters. |
+
+## Start here (source)
+
+| Project | What it is |
+| --- | --- |
+| **[Mister Jay](https://github.com/primeodin/mister-jay)** | Practice the shop skills Jay taught. Installable PWA. Dedicated to Jay. |
+| **[jay-ai-sinhala](https://github.com/primeodin/jay-ai-sinhala)** | Jay teaches friends (70+) to build with GitHub + AI — in Sinhala. |
+| **[camera-selector](https://github.com/primeodin/camera-selector)** | DIY NVR camera selector + Frigate planning. |
 
 ## What I build
 
 - **Teaching tools that stick** — show the job, name the hazards, drill until muscle memory holds
 - **Vision AI in the wild** — pack-station operators first, pitch second (Rabot)
 - **Small runnable systems** — allocators, agents, resilience patterns you can clone and smoke-test
-- **An honest archive** — 21 public chapter repos reconstructing a 2003–2023 technical arc with explicit provenance ([map](https://github.com/primeodin/primeodin-chronicles), [site](https://primeodin.github.io/))
+- **An honest archive** — public chapter repos reconstructing a 2003–2023 technical arc with explicit provenance ([map](https://github.com/primeodin/primeodin-chronicles), [site](https://primeodin.github.io/))
 
 ## Archive standouts
 
