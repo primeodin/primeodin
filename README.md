@@ -44,7 +44,7 @@ One new **working + tested** public repo most weekdays. Pattern:
 
 | # | Repo theme | Level |
 | --- | --- | --- |
-| 01 | First-commit AI CLI (chat + mock tests) | starter |
+| 01 | **[first-commit-ai](https://github.com/primeodin/first-commit-ai)** — chat CLI + mock tests | starter |
 | 02 | Notes RAG over a folder of markdown | starter |
 | 03 | Tiny tool-calling agent (ReAct, no framework soup) | mid |
 | 04 | Prompt lab — A/B eval harness | mid |
