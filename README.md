@@ -12,6 +12,7 @@
   <a href="https://primeodin.github.io/camera-selector/"><img src="https://img.shields.io/badge/live-camera--selector-fb923c?style=for-the-badge" alt="camera-selector" /></a>
   <a href="https://primeodin.github.io/jay-ai-sinhala/"><img src="https://img.shields.io/badge/live-jay--ai--sinhala-a78bfa?style=for-the-badge" alt="jay-ai-sinhala" /></a>
   <a href="https://primeodin.github.io/"><img src="https://img.shields.io/badge/archive-map-64748b?style=for-the-badge" alt="archive" /></a>
+  <a href="https://github.com/search?q=user%3Aprimeodin+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues"><img src="https://img.shields.io/badge/open-good%20first%20issues-eab308?style=for-the-badge" alt="good first issues" /></a>
 </p>
 
 # PrimeOdin
@@ -43,18 +44,30 @@ One new **working + tested** public repo most weekdays. Pattern:
 
 **Roadmap (starter → mid):**
 
-| # | Repo theme | Level |
-| --- | --- | --- |
-| 01 | **[first-commit-ai](https://github.com/primeodin/first-commit-ai)** — chat CLI + mock tests | starter |
-| 02 | **[notes-rag](https://github.com/primeodin/notes-rag)** — RAG over Markdown notes | starter |
-| 03 | Tiny tool-calling agent (ReAct, no framework soup) | mid |
-| 04 | Prompt lab — A/B eval harness | mid |
-| 05 | Embedding playground (similarity you can see) | starter |
-| 06 | Vision caption loop | mid |
-| 07 | Local memory scratchpad for agents | mid |
-| 08 | Shop-skill explainer tied to Mister Jay drills | craft |
+| # | Repo theme | Level | State |
+| --- | --- | --- | --- |
+| 01 | **[first-commit-ai](https://github.com/primeodin/first-commit-ai)** — chat CLI + mock tests | starter | shipped |
+| 02 | **[notes-rag](https://github.com/primeodin/notes-rag)** — retrieve, cite, answer over Markdown notes | starter | shipped |
+| 03 | Tiny BPE tokenizer — watch text become token IDs | starter | in progress |
+| 04 | Tiny tool-calling agent (ReAct, no framework soup) | mid | queued |
+| 05 | Prompt lab — A/B eval harness | mid | queued |
+| 06 | Embedding playground (similarity you can see) | starter | queued |
+| 07 | Vision caption loop | mid | queued |
+| 08 | Local memory scratchpad for agents | mid | queued |
+| 09 | Shop-skill explainer tied to Mister Jay drills | craft | queued |
 
 Inspired by the spirit of small teaching repos like [nanoGPT](https://github.com/karpathy/nanoGPT), [micrograd](https://github.com/karpathy/micrograd), [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch), and [ai-agents-from-scratch](https://github.com/pguso/ai-agents-from-scratch) — remixed for people who just opened GitHub.
+
+## Your first pull request starts here
+
+Every teaching repo above keeps a few **`good first issue`** tickets open on purpose — scoped small, with the file to touch named in the ticket. No prior open-source experience needed.
+
+- [All open good first issues across my repos](https://github.com/search?q=user%3Aprimeodin+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
+- [`notes-rag` #1 — `--json` CLI output for answer + sources](https://github.com/primeodin/notes-rag/issues/1)
+- [`mister-jay` #1 — add watch-along links to a sketch JSON](https://github.com/primeodin/mister-jay/issues/1)
+- [`attention-warrior` #3 — ASCII Q/K/V attention diagram in `docs/`](https://github.com/primeodin/attention-warrior/issues/3)
+
+Claim one in a comment, ask questions in the thread, ship it. Docs and diagrams count as real contributions here.
 
 ## Archive standouts
 
