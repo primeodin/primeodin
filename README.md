@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/primeodin/first-commit-ai"><img src="https://img.shields.io/badge/starter-first--commit--ai-22c55e?style=for-the-badge" alt="first-commit-ai" /></a>
+  <a href="https://github.com/primeodin/notes-rag"><img src="https://img.shields.io/badge/starter-notes--rag-4ade80?style=for-the-badge" alt="notes-rag" /></a>
   <a href="https://primeodin.github.io/mister-jay/"><img src="https://img.shields.io/badge/live-Mister%20Jay-38bdf8?style=for-the-badge" alt="Mister Jay" /></a>
   <a href="https://primeodin.github.io/camera-selector/"><img src="https://img.shields.io/badge/live-camera--selector-fb923c?style=for-the-badge" alt="camera-selector" /></a>
   <a href="https://primeodin.github.io/jay-ai-sinhala/"><img src="https://img.shields.io/badge/live-jay--ai--sinhala-a78bfa?style=for-the-badge" alt="jay-ai-sinhala" /></a>
@@ -48,7 +49,7 @@ One new **working + tested** public repo most weekdays. Pattern:
 | --- | --- | --- | --- |
 | 01 | **[first-commit-ai](https://github.com/primeodin/first-commit-ai)** — chat CLI + mock tests | starter | shipped |
 | 02 | **[notes-rag](https://github.com/primeodin/notes-rag)** — retrieve, cite, answer over Markdown notes | starter | shipped |
-| 03 | Tiny BPE tokenizer — watch text become token IDs | starter | in progress |
+| 03 | **[tiny-bpe-tokenizer](https://github.com/primeodin/tiny-bpe-tokenizer)** — watch text become token IDs | starter | in progress |
 | 04 | Tiny tool-calling agent (ReAct, no framework soup) | mid | queued |
 | 05 | Prompt lab — A/B eval harness | mid | queued |
 | 06 | Embedding playground (similarity you can see) | starter | queued |
@@ -64,6 +65,7 @@ Every teaching repo above keeps a few **`good first issue`** tickets open on pur
 
 - [All open good first issues across my repos](https://github.com/search?q=user%3Aprimeodin+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
 - [`notes-rag` #1 — `--json` CLI output for answer + sources](https://github.com/primeodin/notes-rag/issues/1)
+- [`tiny-bpe-tokenizer` #1 — sample corpus at `data/sample.txt`](https://github.com/primeodin/tiny-bpe-tokenizer/issues/1)
 - [`mister-jay` #1 — add watch-along links to a sketch JSON](https://github.com/primeodin/mister-jay/issues/1)
 - [`attention-warrior` #3 — ASCII Q/K/V attention diagram in `docs/`](https://github.com/primeodin/attention-warrior/issues/3)
 
