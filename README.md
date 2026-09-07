@@ -50,7 +50,7 @@ One new **working + tested** public repo most weekdays. Pattern:
 | --- | --- | --- | --- |
 | 01 | **[first-commit-ai](https://github.com/primeodin/first-commit-ai)** — chat CLI + mock tests | starter | shipped |
 | 02 | **[notes-rag](https://github.com/primeodin/notes-rag)** — retrieve, cite, answer over Markdown notes | starter | shipped |
-| 03 | **[tiny-bpe-tokenizer](https://github.com/primeodin/tiny-bpe-tokenizer)** — watch text become token IDs | starter | in progress |
+| 03 | **[tiny-bpe-tokenizer](https://github.com/primeodin/tiny-bpe-tokenizer)** — watch text become token IDs | starter | shipped |
 | 04 | Tiny tool-calling agent (ReAct, no framework soup) | mid | queued |
 | 05 | Prompt lab — A/B eval harness | mid | queued |
 | 06 | Embedding playground (similarity you can see) | starter | queued |
