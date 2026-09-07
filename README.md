@@ -66,7 +66,7 @@ Every teaching repo above keeps a few **`good first issue`** tickets open on pur
 
 - [All open good first issues across my repos](https://github.com/search?q=user%3Aprimeodin+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
 - [`notes-rag` #1 — `--json` CLI output for answer + sources](https://github.com/primeodin/notes-rag/issues/1)
-- [`tiny-bpe-tokenizer` #2 — unicode/emoji hand-worked merge table](https://github.com/primeodin/tiny-bpe-tokenizer/issues/2)
+- [`tiny-bpe-tokenizer` #3 — CLI design review (train/encode/decode shape)](https://github.com/primeodin/tiny-bpe-tokenizer/issues/3)
 - [`mister-jay` #1 — add watch-along links to a sketch JSON](https://github.com/primeodin/mister-jay/issues/1)
 - [`notes-rag` #3 — CONTRIBUTING.md for first-timers](https://github.com/primeodin/notes-rag/issues/3)
 
