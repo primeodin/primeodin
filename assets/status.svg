@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" role="img" aria-label="shipping status">
   <defs>
     <style>
       .dot { animation: blink 1.2s steps(2,end) infinite; }
-      .slide { animation: slide 12s linear infinite; }
+      .slide { animation: slide 14s linear infinite; }
       @keyframes blink { 50% { opacity: 0; } }
       @keyframes slide {
         0% { transform: translateX(0); }
@@ -14,8 +14,8 @@
   <circle class="dot" cx="28" cy="32" r="6" fill="#22c55e"/>
   <clipPath id="c"><rect x="48" y="0" width="1130" height="64"/></clipPath>
   <g clip-path="url(#c)">
-    <g class="slide" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#e2e8f0">
-      <text x="48" y="38">shipping tiny AI repos daily  ·  runnable · tested · clear notes  ·  first-commit-ai · notes-rag · tiny-bpe-tokenizer · Mister Jay · camera-selector · jay-ai-sinhala  ·  still hungry for the next winter  ·  shipping tiny AI repos daily  ·  runnable · tested · clear notes  ·  first-commit-ai · notes-rag · tiny-bpe-tokenizer · Mister Jay · camera-selector · jay-ai-sinhala  ·  still hungry for the next winter  ·  </text>
+    <g class="slide" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" fill="#e2e8f0">
+      <text x="48" y="38">days 01–03 shipped  ·  chat · RAG · tokenizer  ·  18 open good first issues  ·  live: Mister Jay · camera-selector · jay-ai-sinhala  ·  next: tool-calling agent  ·  still hungry for the next winter  ·  days 01–03 shipped  ·  chat · RAG · tokenizer  ·  18 open good first issues  ·  live: Mister Jay · camera-selector · jay-ai-sinhala  ·  next: tool-calling agent  ·  still hungry for the next winter  ·  </text>
     </g>
   </g>
 </svg>
