@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://github.com/primeodin/first-commit-ai"><img src="https://img.shields.io/badge/starter-first--commit--ai-22c55e?style=for-the-badge" alt="first-commit-ai" /></a>
   <a href="https://github.com/primeodin/notes-rag"><img src="https://img.shields.io/badge/starter-notes--rag-4ade80?style=for-the-badge" alt="notes-rag" /></a>
+  <a href="https://github.com/primeodin/tiny-bpe-tokenizer"><img src="https://img.shields.io/badge/starter-tiny--bpe--tokenizer-86efac?style=for-the-badge" alt="tiny-bpe-tokenizer" /></a>
   <a href="https://primeodin.github.io/mister-jay/"><img src="https://img.shields.io/badge/live-Mister%20Jay-38bdf8?style=for-the-badge" alt="Mister Jay" /></a>
   <a href="https://primeodin.github.io/camera-selector/"><img src="https://img.shields.io/badge/live-camera--selector-fb923c?style=for-the-badge" alt="camera-selector" /></a>
   <a href="https://primeodin.github.io/jay-ai-sinhala/"><img src="https://img.shields.io/badge/live-jay--ai--sinhala-a78bfa?style=for-the-badge" alt="jay-ai-sinhala" /></a>
