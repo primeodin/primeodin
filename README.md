@@ -63,14 +63,14 @@ Inspired by the spirit of small teaching repos like [nanoGPT](https://github.com
 
 ## Your first pull request starts here
 
-Every teaching repo above keeps a few **`good first issue`** tickets open on purpose — scoped small, with the file to touch named in the ticket. No prior open-source experience needed. **15 open** right now across AI builds + live demos.
+Every teaching repo above keeps a few **`good first issue`** tickets open on purpose — scoped small, with the file to touch named in the ticket. No prior open-source experience needed. **14 open** right now across AI builds + live demos.
 
 - [All open good first issues across my repos](https://github.com/search?q=user%3Aprimeodin+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
-- [`notes-rag` #7 — hand-worked bag-of-words scoring doc](https://github.com/primeodin/notes-rag/issues/7)
 - [`notes-rag` #8 — `--list-notes` flag](https://github.com/primeodin/notes-rag/issues/8)
 - [`attention-warrior` #4 — why divide by √d walkthrough](https://github.com/primeodin/attention-warrior/issues/4)
 - [`attention-warrior` #5 — pytest fixture for `AttentionHead.attend`](https://github.com/primeodin/attention-warrior/issues/5)
 - [`tiny-tool-agent` #1 — `unit_convert` tool (C↔F) + mock path](https://github.com/primeodin/tiny-tool-agent/issues/1)
+- [`tiny-bpe-tokenizer` #3 — CLI design review](https://github.com/primeodin/tiny-bpe-tokenizer/issues/3)
 
 Claim one in a comment, ask questions in the thread, ship it. Docs, a11y polish, and diagrams count as real contributions here.
 
