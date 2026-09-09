@@ -11,6 +11,7 @@
   <a href="https://github.com/primeodin/notes-rag"><img src="https://img.shields.io/badge/starter-notes--rag-4ade80?style=for-the-badge" alt="notes-rag" /></a>
   <a href="https://github.com/primeodin/tiny-bpe-tokenizer"><img src="https://img.shields.io/badge/starter-tiny--bpe--tokenizer-86efac?style=for-the-badge" alt="tiny-bpe-tokenizer" /></a>
   <a href="https://github.com/primeodin/tiny-tool-agent"><img src="https://img.shields.io/badge/mid-tiny--tool--agent-fb923c?style=for-the-badge" alt="tiny-tool-agent" /></a>
+  <a href="https://github.com/primeodin/prompt-lab"><img src="https://img.shields.io/badge/mid-prompt--lab-fdba74?style=for-the-badge" alt="prompt-lab" /></a>
   <a href="https://primeodin.github.io/mister-jay/"><img src="https://img.shields.io/badge/live-Mister%20Jay-38bdf8?style=for-the-badge" alt="Mister Jay" /></a>
   <a href="https://primeodin.github.io/camera-selector/"><img src="https://img.shields.io/badge/live-camera--selector-fb923c?style=for-the-badge" alt="camera-selector" /></a>
   <a href="https://primeodin.github.io/jay-ai-sinhala/"><img src="https://img.shields.io/badge/live-jay--ai--sinhala-a78bfa?style=for-the-badge" alt="jay-ai-sinhala" /></a>
@@ -53,7 +54,7 @@ One new **working + tested** public repo most weekdays. Pattern:
 | 02 | **[notes-rag](https://github.com/primeodin/notes-rag)** — retrieve, cite, answer over Markdown notes | starter | shipped |
 | 03 | **[tiny-bpe-tokenizer](https://github.com/primeodin/tiny-bpe-tokenizer)** — watch text become token IDs | starter | shipped |
 | 04 | **[tiny-tool-agent](https://github.com/primeodin/tiny-tool-agent)** — ReAct Thought → Action → Observation | mid | shipped |
-| 05 | Prompt lab — A/B eval harness | mid | queued |
+| 05 | **[prompt-lab](https://github.com/primeodin/prompt-lab)** — A/B prompt eval harness | mid | shipped |
 | 06 | Embedding playground (similarity you can see) | starter | queued |
 | 07 | Vision caption loop | mid | queued |
 | 08 | Local memory scratchpad for agents | mid | queued |
@@ -63,14 +64,14 @@ Inspired by the spirit of small teaching repos like [nanoGPT](https://github.com
 
 ## Your first pull request starts here
 
-Every teaching repo above keeps a few **`good first issue`** tickets open on purpose — scoped small, with the file to touch named in the ticket. No prior open-source experience needed. **14 open** right now across AI builds + live demos.
+Every teaching repo above keeps a few **`good first issue`** tickets open on purpose — scoped small, with the file to touch named in the ticket. No prior open-source experience needed. **17 open** right now across AI builds + live demos.
 
 - [All open good first issues across my repos](https://github.com/search?q=user%3Aprimeodin+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
-- [`notes-rag` #8 — `--list-notes` flag](https://github.com/primeodin/notes-rag/issues/8)
-- [`attention-warrior` #4 — why divide by √d walkthrough](https://github.com/primeodin/attention-warrior/issues/4)
-- [`attention-warrior` #5 — pytest fixture for `AttentionHead.attend`](https://github.com/primeodin/attention-warrior/issues/5)
+- [`prompt-lab` #1 — `starts_with_label` scorer + rubric weight](https://github.com/primeodin/prompt-lab/issues/1)
+- [`prompt-lab` #2 — `--csv` export of the comparison table](https://github.com/primeodin/prompt-lab/issues/2)
 - [`tiny-tool-agent` #1 — `unit_convert` tool (C↔F) + mock path](https://github.com/primeodin/tiny-tool-agent/issues/1)
-- [`tiny-bpe-tokenizer` #3 — CLI design review](https://github.com/primeodin/tiny-bpe-tokenizer/issues/3)
+- [`attention-warrior` #4 — why divide by √d walkthrough](https://github.com/primeodin/attention-warrior/issues/4)
+- [`notes-rag` #8 — `--list-notes` flag](https://github.com/primeodin/notes-rag/issues/8)
 
 Claim one in a comment, ask questions in the thread, ship it. Docs, a11y polish, and diagrams count as real contributions here.
 

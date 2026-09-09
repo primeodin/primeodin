@@ -37,12 +37,12 @@
   <g class="card c2">
     <rect x="430" y="36" width="340" height="152" rx="18" fill="url(#a)" stroke="#fb923c" stroke-width="2"/>
     <rect x="460" y="58" width="86" height="22" rx="11" fill="#fb923c" opacity=".22"/>
-    <text x="503" y="73" text-anchor="middle" fill="#fdba74" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">DAY 04</text>
+    <text x="503" y="73" text-anchor="middle" fill="#fdba74" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">DAY 05</text>
     <rect class="chip" x="556" y="58" width="78" height="22" rx="11" fill="url(#ember)" opacity=".85"/>
     <text x="595" y="73" text-anchor="middle" fill="#0f172a" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="800" letter-spacing="1.1">NEXT →</text>
-    <text x="460" y="108" fill="#fb923c" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">BUILDER · TOOL AGENT</text>
-    <text x="460" y="142" fill="#f8fafc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="700">ReAct loop · prompt lab</text>
-    <text x="460" y="168" fill="#94a3b8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">tiny-tool-agent shipped · prompt-lab queued</text>
+    <text x="460" y="108" fill="#fb923c" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">BUILDER · PROMPT LAB</text>
+    <text x="460" y="142" fill="#f8fafc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="700">A/B eval · embeddings next</text>
+    <text x="460" y="168" fill="#94a3b8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">prompt-lab shipped · embedding-playground</text>
   </g>
   <!-- Craft -->
   <g class="card c3">
