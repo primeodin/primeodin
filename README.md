@@ -64,11 +64,12 @@ Inspired by the spirit of small teaching repos like [nanoGPT](https://github.com
 
 ## Your first pull request starts here
 
-Every teaching repo above keeps a few **`good first issue`** tickets open on purpose — scoped small, with the file to touch named in the ticket. No prior open-source experience needed. **19 open** right now across AI builds + live demos.
+Every teaching repo above keeps a few **`good first issue`** tickets open on purpose — scoped small, with the file to touch named in the ticket. No prior open-source experience needed. **18 open** right now across AI builds + live demos.
 
 - [All open good first issues across my repos](https://github.com/search?q=user%3Aprimeodin+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
 - [`prompt-lab` #1 — `starts_with_label` scorer + rubric weight](https://github.com/primeodin/prompt-lab/issues/1)
 - [`prompt-lab` #2 — `--csv` export of the comparison table](https://github.com/primeodin/prompt-lab/issues/2)
+- [`attention-warrior` #5 — pytest fixture for `AttentionHead.attend` (weights sum ~1)](https://github.com/primeodin/attention-warrior/issues/5)
 - [`tiny-tool-agent` #1 — `unit_convert` tool (C↔F) + mock path](https://github.com/primeodin/tiny-tool-agent/issues/1)
 - [`attention-warrior` #4 — why divide by √d walkthrough](https://github.com/primeodin/attention-warrior/issues/4)
 - [`notes-rag` #8 — `--list-notes` flag](https://github.com/primeodin/notes-rag/issues/8)
