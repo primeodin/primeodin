@@ -64,14 +64,14 @@ Inspired by the spirit of small teaching repos like [nanoGPT](https://github.com
 
 ## Your first pull request starts here
 
-Every teaching repo above keeps a few **`good first issue`** tickets open on purpose — scoped small, with the file to touch named in the ticket. No prior open-source experience needed. **20 open** right now across AI builds + live demos.
+Every teaching repo above keeps a few **`good first issue`** tickets open on purpose — scoped small, with the file to touch named in the ticket. No prior open-source experience needed. **21 open** right now across AI builds + live demos.
 
 - [All open good first issues across my repos](https://github.com/search?q=user%3Aprimeodin+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
-- [`notes-rag` #11 — `docs/add-your-own-note.md`](https://github.com/primeodin/notes-rag/issues/11)
-- [`notes-rag` #12 — empty-hits notice](https://github.com/primeodin/notes-rag/issues/12)
-- [`notes-rag` #8 — `--list-notes` flag](https://github.com/primeodin/notes-rag/issues/8)
 - [`prompt-lab` #1 — `starts_with_label` scorer + rubric weight](https://github.com/primeodin/prompt-lab/issues/1)
-- [`attention-warrior` #5 — pytest fixture for `AttentionHead.attend` (weights sum ~1)](https://github.com/primeodin/attention-warrior/issues/5)
+- [`tiny-tool-agent` #1 — `unit_convert` tool (C↔F) + mock path](https://github.com/primeodin/tiny-tool-agent/issues/1)
+- [`attention-warrior` #7 — `--attend` CLI weights table](https://github.com/primeodin/attention-warrior/issues/7)
+- [`notes-rag` #11 — `docs/add-your-own-note.md`](https://github.com/primeodin/notes-rag/issues/11)
+- [`first-commit-ai` #5 — `--json` CLI output](https://github.com/primeodin/first-commit-ai/issues/5)
 
 Claim one in a comment, ask questions in the thread, ship it. Docs, a11y polish, and diagrams count as real contributions here.
 
