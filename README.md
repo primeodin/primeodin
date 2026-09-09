@@ -71,7 +71,6 @@ Every teaching repo above keeps a few **`good first issue`** tickets open on pur
 - [`prompt-lab` #2 — `--csv` export of the comparison table](https://github.com/primeodin/prompt-lab/issues/2)
 - [`attention-warrior` #5 — pytest fixture for `AttentionHead.attend` (weights sum ~1)](https://github.com/primeodin/attention-warrior/issues/5)
 - [`tiny-tool-agent` #1 — `unit_convert` tool (C↔F) + mock path](https://github.com/primeodin/tiny-tool-agent/issues/1)
-- [`attention-warrior` #4 — why divide by √d walkthrough](https://github.com/primeodin/attention-warrior/issues/4)
 - [`notes-rag` #8 — `--list-notes` flag](https://github.com/primeodin/notes-rag/issues/8)
 
 Claim one in a comment, ask questions in the thread, ship it. Docs, a11y polish, and diagrams count as real contributions here.
