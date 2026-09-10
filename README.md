@@ -12,6 +12,7 @@
   <a href="https://github.com/primeodin/tiny-bpe-tokenizer"><img src="https://img.shields.io/badge/starter-tiny--bpe--tokenizer-86efac?style=for-the-badge" alt="tiny-bpe-tokenizer" /></a>
   <a href="https://github.com/primeodin/tiny-tool-agent"><img src="https://img.shields.io/badge/mid-tiny--tool--agent-fb923c?style=for-the-badge" alt="tiny-tool-agent" /></a>
   <a href="https://github.com/primeodin/prompt-lab"><img src="https://img.shields.io/badge/mid-prompt--lab-fdba74?style=for-the-badge" alt="prompt-lab" /></a>
+  <a href="https://github.com/primeodin/embedding-playground"><img src="https://img.shields.io/badge/starter-embedding--playground-7dd3fc?style=for-the-badge" alt="embedding-playground" /></a>
   <a href="https://primeodin.github.io/mister-jay/"><img src="https://img.shields.io/badge/live-Mister%20Jay-38bdf8?style=for-the-badge" alt="Mister Jay" /></a>
   <a href="https://primeodin.github.io/camera-selector/"><img src="https://img.shields.io/badge/live-camera--selector-fb923c?style=for-the-badge" alt="camera-selector" /></a>
   <a href="https://primeodin.github.io/jay-ai-sinhala/"><img src="https://img.shields.io/badge/live-jay--ai--sinhala-a78bfa?style=for-the-badge" alt="jay-ai-sinhala" /></a>
@@ -55,7 +56,7 @@ One new **working + tested** public repo most weekdays. Pattern:
 | 03 | **[tiny-bpe-tokenizer](https://github.com/primeodin/tiny-bpe-tokenizer)** — watch text become token IDs | starter | shipped |
 | 04 | **[tiny-tool-agent](https://github.com/primeodin/tiny-tool-agent)** — ReAct Thought → Action → Observation | mid | shipped |
 | 05 | **[prompt-lab](https://github.com/primeodin/prompt-lab)** — A/B prompt eval harness | mid | shipped |
-| 06 | Embedding playground (similarity you can see) | starter | queued |
+| 06 | **[embedding-playground](https://github.com/primeodin/embedding-playground)** — cosine similarity you can see | starter | shipped |
 | 07 | Vision caption loop | mid | queued |
 | 08 | Local memory scratchpad for agents | mid | queued |
 | 09 | Shop-skill explainer tied to Mister Jay drills | craft | queued |
@@ -64,9 +65,10 @@ Inspired by the spirit of small teaching repos like [nanoGPT](https://github.com
 
 ## Your first pull request starts here
 
-Every teaching repo above keeps a few **`good first issue`** tickets open on purpose — scoped small, with the file to touch named in the ticket. No prior open-source experience needed. **20 open** right now across AI builds + live demos.
+Every teaching repo above keeps a few **`good first issue`** tickets open on purpose — scoped small, with the file to touch named in the ticket. No prior open-source experience needed. **23 open** right now across AI builds + live demos.
 
 - [All open good first issues across my repos](https://github.com/search?q=user%3Aprimeodin+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
+- [`embedding-playground` #1 — ASCII similarity heatmap](https://github.com/primeodin/embedding-playground/issues/1)
 - [`tiny-bpe-tokenizer` #4 — `encode --pieces` (IDs + readable UTF-8 chunks)](https://github.com/primeodin/tiny-bpe-tokenizer/issues/4)
 - [`prompt-lab` #1 — `starts_with_label` scorer + rubric weight](https://github.com/primeodin/prompt-lab/issues/1)
 - [`attention-warrior` #7 — `--attend` CLI weights table](https://github.com/primeodin/attention-warrior/issues/7)
