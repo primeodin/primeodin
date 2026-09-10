@@ -29,9 +29,9 @@
     <rect x="40" y="36" width="340" height="152" rx="18" fill="url(#a)" stroke="#38bdf8" stroke-width="2"/>
     <rect x="70" y="58" width="86" height="22" rx="11" fill="#0ea5e9" opacity=".18"/>
     <text x="113" y="73" text-anchor="middle" fill="#7dd3fc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">SHIPPED</text>
-    <text x="70" y="108" fill="#38bdf8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">STARTER · DAYS 01–03</text>
-    <text x="70" y="142" fill="#f8fafc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="700">Chat · RAG · Tokenizer</text>
-    <text x="70" y="168" fill="#94a3b8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">first-commit-ai · notes-rag · tiny-bpe</text>
+    <text x="70" y="108" fill="#38bdf8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">STARTER · DAYS 01–03+06</text>
+    <text x="70" y="142" fill="#f8fafc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="700">Chat · RAG · Tokens · Embeds</text>
+    <text x="70" y="168" fill="#94a3b8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">first-commit · notes-rag · bpe · embeds</text>
   </g>
   <!-- Builder -->
   <g class="card c2">
@@ -39,10 +39,10 @@
     <rect x="460" y="58" width="86" height="22" rx="11" fill="#fb923c" opacity=".22"/>
     <text x="503" y="73" text-anchor="middle" fill="#fdba74" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">SHIPPED</text>
     <rect class="chip" x="556" y="58" width="100" height="22" rx="11" fill="url(#ember)" opacity=".9"/>
-    <text x="606" y="73" text-anchor="middle" fill="#0f172a" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="800" letter-spacing="0.8">06 EMBEDS</text>
+    <text x="606" y="73" text-anchor="middle" fill="#0f172a" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="800" letter-spacing="0.8">07 VISION</text>
     <text x="460" y="108" fill="#fb923c" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" letter-spacing="1.5">BUILDER · DAYS 04–05</text>
     <text x="460" y="142" fill="#f8fafc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="700">Tool agent · A/B eval</text>
-    <text x="460" y="168" fill="#94a3b8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">tiny-tool-agent · prompt-lab · next: embeddings</text>
+    <text x="460" y="168" fill="#94a3b8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">tiny-tool-agent · prompt-lab · next: vision loop</text>
   </g>
   <!-- Craft -->
   <g class="card c3">
