@@ -65,7 +65,7 @@ Inspired by the spirit of small teaching repos like [nanoGPT](https://github.com
 
 ## Your first pull request starts here
 
-Every teaching repo above keeps a few **`good first issue`** tickets open on purpose — scoped small, with the file to touch named in the ticket. No prior open-source experience needed. **23 open** right now across AI builds + live demos.
+Every teaching repo above keeps a few **`good first issue`** tickets open on purpose — scoped small, with the file to touch named in the ticket. No prior open-source experience needed. **25 open** right now across AI builds + live demos.
 
 - [All open good first issues across my repos](https://github.com/search?q=user%3Aprimeodin+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
 - [`embedding-playground` #1 — ASCII similarity heatmap](https://github.com/primeodin/embedding-playground/issues/1)
