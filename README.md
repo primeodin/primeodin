@@ -65,9 +65,11 @@ Inspired by the spirit of small teaching repos like [nanoGPT](https://github.com
 
 ## Your first pull request starts here
 
-Every teaching repo above keeps a few **`good first issue`** tickets open on purpose — scoped small, with the file to touch named in the ticket. No prior open-source experience needed. **25 open** right now across AI builds + live demos.
+Every teaching repo above keeps a few **`good first issue`** tickets open on purpose — scoped small, with the file to touch named in the ticket. No prior open-source experience needed. **27 open** right now across AI builds + live demos + archive chapters.
 
 - [All open good first issues across my repos](https://github.com/search?q=user%3Aprimeodin+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
+- [`resilient-kingdom` #1 — `docs/start-here.md` walkthrough](https://github.com/primeodin/resilient-kingdom/issues/1)
+- [`resilient-kingdom` #2 — annotated breaker trip + tick recover](https://github.com/primeodin/resilient-kingdom/issues/2)
 - [`embedding-playground` #1 — ASCII similarity heatmap](https://github.com/primeodin/embedding-playground/issues/1)
 - [`tiny-bpe-tokenizer` #4 — `encode --pieces` (IDs + readable UTF-8 chunks)](https://github.com/primeodin/tiny-bpe-tokenizer/issues/4)
 - [`prompt-lab` #1 — `starts_with_label` scorer + rubric weight](https://github.com/primeodin/prompt-lab/issues/1)
